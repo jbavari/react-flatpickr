@@ -1,5 +1,5 @@
 {
-  "name": "react-flatpickr",
+  "name": "react-flatpickr-bud",
   "version": "3.0.0",
   "description": "flatpickr for React",
   "main": "build/index.js",
@@ -22,7 +22,7 @@
   "author": "haoxin",
   "license": "MIT",
   "dependencies": {
-    "flatpickr": "^2.2.3"
+    "flatpickr-bud": "^2.3.4"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
